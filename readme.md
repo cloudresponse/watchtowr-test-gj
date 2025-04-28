@@ -32,7 +32,7 @@
 
 ## Getting Started
 
-1. Install dependencies:
+1. Install dependencies in client, server and parent folders:
 
    ```bash
    pnpm i
